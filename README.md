@@ -92,6 +92,7 @@ This repository contains the resources that are discussed during the weekly meet
 - [Smita Saxena](https://github.com/smitasaxenaa)
 - [Sanskar Kumar](https://github.com/sanskar7447)
 - [Rahul D](https://github.com/chindimaga)
+- [Anand](https://github.com/anand-trehan)
 
  ## Leader-Board
  
